@@ -1,0 +1,11 @@
+.main-layout {
+  // display: flex;
+  // flex-direction: column;
+  // min-height: 100vh;
+
+  @apply flex flex-col min-h-screen;
+
+  &__content {
+    @apply flex-1 bg-gray-100;
+  }
+}

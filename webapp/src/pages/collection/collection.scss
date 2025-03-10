@@ -1,0 +1,68 @@
+.scent-categories-container {
+  display: flex;
+  justify-content: center;
+  gap: 125px !important;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  background-color: transparent;
+}
+
+.category-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 300px;
+}
+
+.category-title {
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  margin-bottom: 4px;
+  color: #333;
+  text-transform: uppercase;
+}
+
+.view-all {
+  font-size: 12px;
+  color: #999;
+  text-decoration: none;
+  margin-bottom: 16px;
+  transition: color 0.3s ease;
+  
+  &:hover {
+    color: #666;
+    text-decoration: underline;
+  }
+}
+
+.image-container {
+  width: 100%;
+  overflow: hidden;
+  
+  img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+    
+    &:hover {
+      transform: scale(1.03);
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .scent-categories-container {
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+  }
+  
+  .category-item {
+    max-width: 280px;
+  }
+}
+
