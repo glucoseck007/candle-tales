@@ -27,7 +27,7 @@ export const zodiacProducts: Product[] = [
     shortDescription: "Hương thơm táo bạo và tràn đầy năng lượng cho Bạch Dương nhiệt huyết",
     description:
       "Thắp sáng ngọn lửa bên trong bạn với nến thơm lấy cảm hứng từ Bạch Dương. Hương thơm mạnh mẽ, kết hợp giữa các nốt cay nồng và ấm áp, hoàn hảo cho những người đầy đam mê và phiêu lưu.",
-    price: 139000,
+    price: 70000,
     image: "/src/assets/images/aries.jpg",
     scentNotes: "Quế, Tiêu đen, Gỗ tuyết tùng, Hổ phách",
     burnTime: 4,
@@ -43,7 +43,7 @@ export const zodiacProducts: Product[] = [
     shortDescription: "Hương thơm sang trọng và ấm áp dành cho Kim Ngưu vững vàng",
     description:
       "Tận hưởng sự thư giãn và xa hoa với nến thơm Kim Ngưu. Hương thơm phong phú và trầm ấm, tạo nên không gian đầy lôi cuốn, phù hợp với những người yêu thích sự tinh tế và thoải mái.",
-    price: 139000,
+    price: 70000,
     image: "/src/assets/images/taurus.jpg",
     scentNotes: "Vani, Gỗ đàn hương, Hoắc hương, Hoa hồng",
     burnTime: 4,
@@ -59,7 +59,7 @@ export const zodiacProducts: Product[] = [
     shortDescription: "Hương thơm rực rỡ và độc đáo cho Song Tử tò mò",
     description:
       "Tôn vinh sự linh hoạt với nến thơm Song Tử. Hương thơm tươi sáng, kết hợp giữa hương cam chanh và hoa nhẹ nhàng, phản ánh bản chất thích nghi và tràn đầy năng lượng của Song Tử.",
-    price: 139000,
+    price: 70000,
     image: "/src/assets/images/gemini.jpg",
     scentNotes: "Cam Bergamot, Chanh, Hoa Nhài, Bạc Hà",
     burnTime: 4,
@@ -75,7 +75,7 @@ export const zodiacProducts: Product[] = [
     shortDescription: "Hương thơm dịu nhẹ và êm đềm dành cho Cự Giải nhạy cảm",
     description:
       "Đắm mình trong sự ấm áp với nến thơm Cự Giải. Hương thơm nhẹ nhàng và gợi nhớ đến mái ấm, phù hợp với những người giàu cảm xúc và tinh tế.",
-    price: 139000,
+    price: 70000,
     image: "/src/assets/images/cancer.jpg",
     scentNotes: "Dừa, Muối biển, Hoa nhài, Vani",
     burnTime: 4,
@@ -91,7 +91,7 @@ export const zodiacProducts: Product[] = [
     shortDescription: "Hương thơm quyến rũ và sang trọng dành cho Sư Tử lôi cuốn",
     description:
       "Tỏa sáng với nến thơm Sư Tử. Hương thơm mạnh mẽ và đầy cuốn hút, giúp bạn luôn tự tin và tràn đầy sức sống.",
-    price: 139000,
+    price: 70000,
     image: "/src/assets/images/leo.jpg",
     scentNotes: "Hổ phách, Cam, Quế, Vani",
     burnTime: 4,
@@ -107,7 +107,7 @@ export const zodiacProducts: Product[] = [
     shortDescription: "Hương thơm thanh mát và tinh tế dành cho Xử Nữ tỉ mỉ",
     description:
       "Tạo ra không gian tươi mới với nến thơm Xử Nữ. Hương thơm nhẹ nhàng và thanh sạch, giúp cân bằng và làm dịu tâm trí.",
-    price: 139000,
+    price: 70000,
     image: "/src/assets/images/virgo.jpg",
     scentNotes: "Oải hương, Bạch đàn, Chanh, Xô thơm",
     burnTime: 4,
@@ -123,7 +123,7 @@ export const zodiacProducts: Product[] = [
     shortDescription: "Hương thơm tinh tế và hài hòa dành cho Thiên Bình yêu cái đẹp",
     description:
       "Mang đến sự cân bằng với nến thơm Thiên Bình. Hương thơm nhẹ nhàng và sang trọng, giúp tạo không gian hài hòa và thư thái.",
-    price: 139000,
+    price: 70000,
     image: "/src/assets/images/libra.jpg",
     scentNotes: "Hoa hồng, Vani, Gỗ đàn hương, Cam Bergamot",
     burnTime: 4,
@@ -139,7 +139,7 @@ export const zodiacProducts: Product[] = [
     shortDescription: "Hương thơm nồng nàn và huyền bí dành cho Bọ Cạp mãnh liệt",
     description:
       "Tôn vinh sự bí ẩn với nến thơm Bọ Cạp. Hương thơm mạnh mẽ và quyến rũ, hoàn hảo cho những tâm hồn đam mê.",
-    price: 139000,
+    price: 70000,
     image: "/src/assets/images/scorpio.jpg",
     scentNotes: "Hoắc hương, Tiêu đen, Vani, Xạ hương",
     burnTime: 4,
@@ -155,7 +155,7 @@ export const zodiacProducts: Product[] = [
     shortDescription: "Hương thơm phóng khoáng và sôi động dành cho Nhân Mã tự do",
     description:
       "Khơi dậy đam mê khám phá với nến thơm Nhân Mã. Hương thơm tươi mới, tràn đầy sức sống, đưa bạn đến những chân trời mới và những hành trình thú vị.",
-    price: 139000,
+    price: 70000,
     image: "/src/assets/images/sagittarius.jpg",
     scentNotes: "Gỗ tuyết tùng, Cam, Quế, Đinh hương",
     burnTime: 4,
@@ -171,7 +171,7 @@ export const zodiacProducts: Product[] = [
     shortDescription: "Hương thơm tinh tế và vững chắc dành cho Ma Kết kiên định",
     description:
       "Chinh phục mọi thử thách với nến thơm Ma Kết. Hương thơm trầm ấm và sang trọng, giúp tăng sự tập trung và định hướng mục tiêu.",
-    price: 139000,
+    price: 70000,
     image: "/src/assets/images/capricorn.jpg",
     scentNotes: "Rêu sồi, Cỏ hương bài, Cam Bergamot, Hổ phách",
     burnTime: 4,
@@ -187,7 +187,7 @@ export const zodiacProducts: Product[] = [
     shortDescription: "Hương thơm độc đáo và thanh mát dành cho Bảo Bình sáng tạo",
     description:
       "Phá vỡ giới hạn với nến thơm Bảo Bình. Hương thơm tươi mới và kích thích tư duy, hoàn hảo cho những bộ óc sáng tạo và tiên phong.",
-    price: 139000,
+    price: 70000,
     image: "/src/assets/images/aquarius.jpg",
     scentNotes: "Bạc hà, Bạch đàn, Oải hương, Cam chanh",
     burnTime: 4,
@@ -203,7 +203,7 @@ export const zodiacProducts: Product[] = [
     shortDescription: "Hương thơm nhẹ nhàng và bay bổng dành cho Song Ngư mơ mộng",
     description:
       "Đắm chìm vào thế giới của những giấc mơ với nến thơm Song Ngư. Hương thơm dịu dàng và đầy cảm hứng, đưa bạn đến những miền đất huyền bí.",
-    price: 139000,
+    price: 70000,
     image: "/src/assets/images/pisces.jpg",
     scentNotes: "Hoa súng, Hoa nhài, Gỗ đàn hương, Vani",
     burnTime: 4,

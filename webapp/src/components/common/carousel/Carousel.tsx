@@ -1,4 +1,4 @@
-import "./Carousel.scss";
+import "./carousel.scss";
 import React, { useState, useEffect, useCallback } from "react";
 import CustomButton from "../button/custom-button/Custom-Button";
 import { useNavigate } from "react-router-dom";
